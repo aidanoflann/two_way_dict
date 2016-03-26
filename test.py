@@ -1,4 +1,4 @@
-from two_way_dict import Mapping
+from two_way import Mapping
 import pytest
 
 
